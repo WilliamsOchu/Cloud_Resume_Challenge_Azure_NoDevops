@@ -21,3 +21,6 @@ Here is a diagram illustrating the functional process of this project:
 
 ## Todo
 - This is just a minimal implementation of the entire project. The full project will be completed and a link attached to this
+
+
+Click here to view: [My_Resume](https://www.williamsochu.me)!
