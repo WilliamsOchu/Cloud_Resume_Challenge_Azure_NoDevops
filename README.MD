@@ -17,7 +17,7 @@ Here I engage and succesfully complete the first 10 steps of the challenge using
 - An azure Cosmosdb which stores and increments a count value which is fedback to the frontend
 
 Here is a diagram illustrating the functional process of this project:
-![Cloud_Resume_Azure](/frontend/assets/img/Cloud%20Resume%20Azure_noDevops%20(1).jpg "Cloud_Resume_Challenge_Image)
+![Cloud_Resume_Azure](/frontend/assets/img/Cloudimage.jpg "Cloud_Resume_Challenge_Image")
 
 ## Todo
 - This is just a minimal implementation of the entire project. The full project will be completed and a link attached to this
