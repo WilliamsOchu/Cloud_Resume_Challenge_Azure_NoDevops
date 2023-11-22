@@ -23,7 +23,7 @@ Here is a diagram illustrating the functional process of this project:
 - This is just a minimal implementation of the entire project. The full project will be completed and a link attached to this <br>
 
 
-Click here to view: [Updated Resume Repository](https://github.com/WilliamsOchu/Ochu_Williams_Resume)
+Click here to view: [Updated Resume Repository](https://github.com/WilliamsOchu/Ochu_Williams_Resume){:target="_blank"}
 
 Click here to view: [My_Resume](https://www.williamsochu.me)
 
